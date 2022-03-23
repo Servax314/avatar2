@@ -65,4 +65,4 @@ make -j $QEMU_NPROC
 
 echo ""
 echo "Export the following env variable:"
-echo "export AVATAR2_PANDA_EXECUTABLE=$PWD/arm-softmmu/qemu-system-arm"
+echo "export AVATAR2_QEMU_EXECUTABLE=$PWD/arm-softmmu/qemu-system-arm"
